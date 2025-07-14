@@ -1,1 +1,1 @@
-# mass-pr-pyhton
+# mass-pr-python
